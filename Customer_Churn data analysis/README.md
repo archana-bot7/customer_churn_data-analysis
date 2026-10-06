@@ -42,4 +42,4 @@ Customer-Churn-Analysis/
 
 Customer Churn Dataset — Kaggle, by muhammadshahidazeem.
 
-The accompanying report documents the cleaning checks, analysis, KPI definitions, dashboard insights, and recommendations.
+
